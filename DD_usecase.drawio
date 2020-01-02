@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-02T09:39:27.932Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="P04cCGg1L_u9DC2TRiCp" version="12.4.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-02T09:41:55.621Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="gQ7ykKRG2zMZucoRpqfg" version="12.4.8" type="github" pages="3">
   <diagram id="EZ-Fo409MBvBVe8mJaMu" name="use_case_diagram">
     <mxGraphModel dx="868" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -859,7 +859,7 @@
         <mxCell id="sGhINFVSm8SKwgVai4vf-99" value="/stocks" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="RWkSxuXmG3KRBNS30dG7-204" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="sGhINFVSm8SKwgVai4vf-102" value="/stocks/reduceKeepStock" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="RWkSxuXmG3KRBNS30dG7-204" vertex="1">
+        <mxCell id="sGhINFVSm8SKwgVai4vf-102" value="/stocks/reduceStock" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="RWkSxuXmG3KRBNS30dG7-204" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="sGhINFVSm8SKwgVai4vf-101" value="/stocks/addKeepStock" style="text;strokeColor=#000000;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="RWkSxuXmG3KRBNS30dG7-204" vertex="1">
